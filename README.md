@@ -1,4 +1,4 @@
-# vue-admin-template
+# 谷粒学院后台管理系统前端项目
 
 > A minimal vue admin template with Element UI & axios & iconfont & permission control & lint
 
